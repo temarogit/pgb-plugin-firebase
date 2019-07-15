@@ -1,39 +1,39 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "1064422453486",
+    "firebase_url": "https://webmobapp-a6b15.firebaseio.com",
+    "project_id": "webmobapp-a6b15",
+    "storage_bucket": "webmobapp-a6b15.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:1064422453486:android:7b34a94e9ebc982f",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.yourcompany.yourproject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "1064422453486-vjmqmh757o6t7js6tqb177p23pus56ea.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyCoMZC3JWphlSaUEeiIdloeobuOF_ztaew"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "1064422453486-vjmqmh757o6t7js6tqb177p23pus56ea.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
         }
       }
     }
